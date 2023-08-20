@@ -1,1 +1,2 @@
-this is first example
+this is the first example
+this is line second
